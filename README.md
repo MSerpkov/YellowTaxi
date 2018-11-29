@@ -1,6 +1,6 @@
-# YellowTaxi \n
-new York yellow taxi load forecasting
-Проект из учебного курса Машинное обучение и анализ данных https://www.coursera.org/specializations/machine-learning-data-analysis
+# YellowTaxi 
+\n new York yellow taxi load forecasting
+\n Проект из учебного курса Машинное обучение и анализ данных https://www.coursera.org/specializations/machine-learning-data-analysis
 Неделя 1 Агрегирование сырых данных по часам и районам Нью-Йорка
 Неделя 2 Работа с геоданными, отрисовка объектов на статистических и динамических картах
 Неделя 3 Построение модели временного ряда ARIMA для одной из географических зон
