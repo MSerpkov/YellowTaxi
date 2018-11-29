@@ -1,5 +1,5 @@
 # YellowTaxi  
-new York yellow taxi load forecasting  
+new York yellow taxi load forecasting - Прогнозирование поездок желтого такси Нью-Йорка  
 Проект из учебного курса Машинное обучение и анализ данных https://www.coursera.org/specializations/machine-learning-data-analysis  
 Неделя 1 Агрегирование сырых данных по часам и районам Нью-Йорка  
 Неделя 2 Работа с геоданными, отрисовка объектов на статистических и динамических картах  
